@@ -1,0 +1,28 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/gym-advice/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/my-angle-gym-related-searches/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/bellapettit/
+        </loc>
+    </url>
+</urlset>
